@@ -1,5 +1,5 @@
-# OldPhoneDeals - Assignment 2 TUT1-G1
-**Contributors: Simon Bolger and Annabel Chen**
+# OldPhoneDeals
+**Contributors: Simon Bolger
 
 An eCommerce web application for buying and reviewing second-hand phones.
 
